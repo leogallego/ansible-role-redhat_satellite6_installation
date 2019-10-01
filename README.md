@@ -84,5 +84,6 @@ Julio Villarreal Pelegrino <julio@linux.com> more at: http://wwww.juliovillarrea
 * Petr Balogh - <petr.balogh@gmail.com>
 * Joe Pisciotta - <josephpisciott@mac.com>
 * Nick Poyant - <npoyant@redhat.com>
-* Cameron Wyatt - <cwyatt@redhat.com>
+* Cameron Wyatt - cwyatt@redhat.com
+* Christian Stankowic - <info@cstan.io>
 * Leonardo Gallego - leogallego[@]redhat.com
